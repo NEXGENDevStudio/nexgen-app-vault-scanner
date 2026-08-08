@@ -154,14 +154,17 @@ The latest version will always be made available with the application.
 ---
  ## Contact Information
 
-**Developer**  
+**Developer / Company**  
 NexGen Dev Studio
 
 **Application**  
 NexGen App Vault Scanner
 
-**Support Email**  
+**Contact Email**  
 nexgen.devstudio@gmail.com
+
+**Support Email**  
+support.nexgen.devstudio@gmail.com
 
 **GitHub Repository**  
 https://github.com/sakihasseb/nexgen-app-vault-scanner
@@ -175,9 +178,9 @@ https://apkpure.com/p/com.nexgen.appvaultscanner
 **Official Uptodown Page**  
 https://nexgen-app-vault-scanner.en.uptodown.com/android
 
-The latest official APK releases are always available on the GitHub Releases page, APKPure, and Uptodown.
+The latest official APK releases are available through the GitHub Releases page, APKPure, and Uptodown.
 
-For support, downloads, bug reports, feedback, feature requests, or privacy-related questions, please contact us using the email address above or visit our official GitHub Repository, GitHub Releases, APKPure page, or Uptodown page.
+For support, downloads, bug reports, feedback, feature requests, or privacy-related questions, please contact us using the appropriate email address above or visit the official GitHub Repository, GitHub Releases, APKPure page, or Uptodown page.
 ---
 
 ## Final Statement
