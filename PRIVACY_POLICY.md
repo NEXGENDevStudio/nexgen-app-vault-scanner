@@ -152,8 +152,7 @@ We may revise this Privacy Policy periodically to reflect:
 The latest version will always be made available with the application.
 
 ---
-
-## Contact Information
+ ## Contact Information
 
 **Developer**  
 NexGen Dev Studio
@@ -173,10 +172,12 @@ https://github.com/sakihasseb/nexgen-app-vault-scanner/releases
 **Official APKPure Page**  
 https://apkpure.com/p/com.nexgen.appvaultscanner
 
-The latest official APK releases are always available on both the GitHub Releases page and the official APKPure page.
+**Official Uptodown Page**  
+https://nexgen-app-vault-scanner.en.uptodown.com/android
 
-For support, downloads, bug reports, feedback, feature requests, or privacy-related questions, please contact us using the email address above or visit our official GitHub Repository, GitHub Releases, or APKPure page.
+The latest official APK releases are always available on the GitHub Releases page, APKPure, and Uptodown.
 
+For support, downloads, bug reports, feedback, feature requests, or privacy-related questions, please contact us using the email address above or visit our official GitHub Repository, GitHub Releases, APKPure page, or Uptodown page.
 ---
 
 ## Final Statement
