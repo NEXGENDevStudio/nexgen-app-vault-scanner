@@ -1,10 +1,16 @@
-NexGen App Vault Scanner
+<p align="center">
+  <img width="500" alt="Welcome Screen" src="https://github.com/user-attachments/assets/fc3f661a-daf3-4ebc-9200-47960688fa0c" />
+  <img width="500" alt="How It Works" src="https://github.com/user-attachments/assets/b85105f7-1bd6-4f4b-b987-a05f7a1346e9" />
+  <img width="500" alt="Enable Usage Access" src="https://github.com/user-attachments/assets/f1ae25e9-d3b2-4430-aeae-b3953e560224" />
+</p>NexGen App Vault Scanner
 
-A privacy & security analysis tool for Android.
+A privacy-focused Android app permission analysis tool.
 
 Developed by NexGen Dev Studio.
 
-NexGen App Vault Scanner helps users understand how installed Android applications use permissions and provides privacy-focused risk insights through local permission analysis.
+NexGen App Vault Scanner helps users understand how installed Android applications use permissions and provides privacy-focused insights through local permission analysis.
+
+It is designed for permission transparency and privacy awareness, not malware detection.
 
 ---
 
@@ -35,7 +41,7 @@ NexGen App Vault Scanner is designed with a privacy-first approach.
 - Permission analysis is performed locally on the device
 - Scan results remain on the user's device
 
-Read the complete "Privacy Policy" (https://github.com/NEXGENDevStudio/nexgen-app-vault-scanner/blob/main/PRIVACY_POLICY.md).
+Read the complete "Privacy Policy" (PRIVACY_POLICY.md).
 
 ---
 
@@ -45,13 +51,18 @@ The displayed risk score is an informational privacy indicator based on the perm
 
 A higher score does not mean that an application is malware, infected, dangerous, or unsafe.
 
-The purpose of the analysis is to help users better understand sensitive permissions and make informed privacy decisions.
+The purpose of the analysis is to help users understand sensitive permissions and make informed privacy decisions.
 
 ---
 
 📱 Permission Transparency
 
-NexGen App Vault Scanner helps users see which permissions installed applications request and understand sensitive permission categories such as:
+<p align="center">
+  <img width="500" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/abbefe26-b9dc-457d-b351-aaad96f75b73" />
+  <img width="500" alt="Permission List" src="https://github.com/user-attachments/assets/fd1d0192-f5f2-4f7c-82d0-8cc909b4533f" />
+  <img width="500" alt="Risk Score Details" src="https://github.com/user-attachments/assets/1bb6b9b1-d029-4088-be00-bebbfb280494" />
+  <img width="500" alt="Scan History" src="https://github.com/user-attachments/assets/16159a2f-e668-4ac1-a554-cfff5234212c" />
+</p>NexGen App Vault Scanner helps users see which permissions installed applications request and understand sensitive permission categories such as:
 
 - Camera
 - Microphone
@@ -61,7 +72,7 @@ NexGen App Vault Scanner helps users see which permissions installed application
 - Storage
 - Other sensitive permissions
 
-The application is designed for privacy awareness and transparency rather than malware detection.
+The application focuses on privacy awareness and permission transparency rather than malware detection.
 
 ---
 
@@ -77,27 +88,17 @@ Users remain responsible for their own security and privacy decisions.
 
 📥 Download
 
-GitHub Releases
-
-Download official releases and APK files from the GitHub Releases page:
-
-"Download from GitHub Releases" (https://github.com/NEXGENDevStudio/nexgen-app-vault-scanner/releases)
-
-APKPure
-
-"Download from APKPure" (https://apkpure.com/p/com.nexgen.appvaultscanner)
-
-Uptodown
-
-"Download from Uptodown" (https://nexgen-app-vault-scanner.en.uptodown.com/android)
+- "Download from GitHub Releases" (https://github.com/NEXGENDevStudio/nexgen-app-vault-scanner/releases)
+- "Download from APKPure" (https://apkpure.com/p/com.nexgen.appvaultscanner)
+- "Download from Uptodown" (https://nexgen-app-vault-scanner.en.uptodown.com/android)
 
 ---
 
 📚 Documentation
 
-- "Privacy Policy" (https://github.com/NEXGENDevStudio/nexgen-app-vault-scanner/blob/main/PRIVACY_POLICY.md)
-- "License" (https://github.com/NEXGENDevStudio/nexgen-app-vault-scanner/blob/main/LICENSE.md)
-- "PRO Information" (https://github.com/NEXGENDevStudio/nexgen-app-vault-scanner/blob/main/PRO.md)
+- "Privacy Policy" (PRIVACY_POLICY.md)
+- "License" (LICENSE.md)
+- "PRO Information" (PRO.md)
 
 ---
 
@@ -127,25 +128,26 @@ NexGen Dev Studio develops modern Android applications focused on privacy, secur
 
 ---
 
-📄 Legal
-
-Please review the project's:
-
-- "Privacy Policy" (https://github.com/NEXGENDevStudio/nexgen-app-vault-scanner/blob/main/PRIVACY_POLICY.md)
-- "License" (https://github.com/NEXGENDevStudio/nexgen-app-vault-scanner/blob/main/LICENSE.md)
-- "PRO Information" (https://github.com/NEXGENDevStudio/nexgen-app-vault-scanner/blob/main/PRO.md)
-
----
-
 📦 Package Information
 
-Application: NexGen App Vault Scanner
-Package: "com.nexgen.appvaultscanner"
-Platform: Android
-Developer: NexGen Dev Studio
+Information| Details
+Application| NexGen App Vault Scanner
+Package| "com.nexgen.appvaultscanner"
+Platform| Android
+Developer| NexGen Dev Studio
 
 ---
 
-© 2026 NexGen Dev Studio. All Rights Reserved.
+📄 Project Information
 
 NexGen App Vault Scanner is an official product of NexGen Dev Studio.
+
+For licensing information, see "LICENSE.md" (LICENSE.md).
+
+For privacy information, see "PRIVACY_POLICY.md" (PRIVACY_POLICY.md).
+
+For future PRO features and information, see "PRO.md" (PRO.md).
+
+---
+
+© 2026 NexGen Dev Studio. All Rights Reserved.bb
